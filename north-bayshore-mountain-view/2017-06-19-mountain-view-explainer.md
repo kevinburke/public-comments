@@ -15,9 +15,12 @@ They are holding two meetings to discuss it:
 - The City Council is holding deliberations and (probably) a vote on the North
 Bayshore plan on Tuesday June 27 at 6:30pm at 500 Castro Street.
 
-Specifically they're going to vote on an Environmental Impact Report (EIR) that
-could allow up to 9850 housing units to be built in the area. Once they certify
-the EIR, developers can submit an application to build housing on it.
+Specifically they're going to vote on an [Environmental Impact Report
+(EIR)][eir] that could allow up to 9850 housing units to be built in the area.
+Once they certify the EIR, developers can submit an application to build housing
+on it.
+
+[eir]: https://en.wikipedia.org/wiki/California_Environmental_Quality_Act#Environmental_Impact_Report_.28EIR.29
 
 ## What could happen at the two meetings?
 
@@ -34,10 +37,12 @@ housing units. Santa Clara County added 200,000 jobs between 2010 and 2016, and
 only added 30,000 units of housing. This jobs-housing imbalance has pushed rents
 and home prices to record highs.
 
-Building more housing helps lower rents, relative to not building, which puts
-more money in renters pockets. Google has discussed how it's harder to meet
-hiring goals because it's so expensive to live here, and YCombinator partners
-frequently talk about how high rents make startups less viable.
+Compared with not building any housing, building more housing helps lower rents,
+which puts more money in renters pockets. If you don't own a home, paying less
+money in rent each month can help you save for one. Google has discussed how
+it's harder to meet hiring goals because it's so expensive to live here, and
+YCombinator partners frequently talk about how high rents make startups less
+viable.
 
 In addition, failing to build housing close to job sites contributes to sprawl.
 Three of the fastest growing cities in the Bay Area were [Gilroy, Brentwood and
