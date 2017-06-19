@@ -61,18 +61,19 @@ teachers.
 ## That all sounds bad. Why wouldn't they approve the maximum number of units?
 
 From a *local* perspective things are far more muddy. While building housing
-close to jobs is beneficial for the region as a whole, it's likely to have a
-local impact on things like traffic. Residents that refuse to allow housing
-development can push up their own property values.
+close to jobs is beneficial for minimizing commutes and rent prices for the
+region as a whole, it's likely to have a local impact on traffic and parking.
+Local homeowners have a strong incentive to prevent new housing development
+since it increases their own property values.
 
-**Furthermore** the tools used to analyze the environmental impacts are flawed.
-They consider only the localized environmental impacts on traffic, noise, green
-space, pollution, and do not consider the long run consequences of failing to
-build enough housing close to jobs (sprawl).
+**Furthermore**, the tools used to analyze the project's environmental impacts
+are flawed. They consider only the localized environmental impacts on traffic,
+noise, green space, pollution, and do not consider the long run consequences of
+failing to build enough housing close to jobs (sprawl).
 
 In sum the City Council is looking at a flawed environmental report, there will
-probably be lots of opposition, and it's not clear what they are going to do
-next Tuesday.
+probably be lots of opposition from NIMBY neighbors, and it's not clear what the
+Council is going to do next Tuesday.
 
 ## How can I help?
 
@@ -86,10 +87,12 @@ Public speaking is awkward as hell. I understand that. But the Council
 often sees these events as "50 people spoke in opposition and 10 in favor"
 and I guarantee you are more eloquent than the average speaker. So get up
 there and tell the City Council what you are concerned about and maybe a
-sentence or two about why you think that should be the case. "I want to live
-near where I work" / "I am worried we aren't building enough housing for
-teachers/firefighters/police" / "Not building enough contributes to sprawl and
-long commutes"
+sentence or two about why you think that should be the case.
+
+- "I want to live near where I work"
+- "I am worried we aren't building enough housing for teachers/firefighters/police"
+- "Not building enough contributes to sprawl and long commutes"
+- "I would rather have a traffic crisis or a parking crisis than a housing crisis"
 
 If you can't make it to the meeting, **email the City Council and tell them
 what you think.** I have created a form that makes it easy to send personalized
