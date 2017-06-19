@@ -45,9 +45,9 @@ YCombinator partners frequently talk about how high rents make startups less
 viable.
 
 In addition, failing to build housing close to job sites contributes to sprawl.
-Three of the fastest growing cities in the Bay Area were [Gilroy, Brentwood and
-Rio Vista][sprawl]. The people living there have lawns and long commutes, which
-are not good for the environment.
+Three of the fastest growing cities in the Bay Area last year were [Gilroy,
+Brentwood and Rio Vista][sprawl]. The people living there have lawns and long
+commutes, which are not good for the environment.
 
 The high price of housing is making it more difficult for cities and businesses
 on the Peninsula to fill positions in schools, restaurants, and police
@@ -112,6 +112,7 @@ direct you to the right place!
 
 ### Resources
 
+```
 Housing in 2010 in Santa Clara County: 631,920
 Housing in 2010 in Mountain View:       33,881
 Housing in 2017 in Santa Clara County: 661,785
@@ -119,6 +120,7 @@ Housing in 2017 in Mountain View:       35,595
 
 Jobs in 2010 in Santa Clara County:   856,200
 Jobs in 2016 in Santa Clara County: 1,056,700
+```
 
 How much housing near Google? http://www.greencaltrain.com/2017/04/how-much-housing-near-google-mountain-council-to-weigh-in-tuesday/
 The flaws in localized environmental impact reports: http://www.greencaltrain.com/2017/03/moving-away-from-environmental-reviews-that-favor-driving-san-francisco-mountain-view-menlo-park/
