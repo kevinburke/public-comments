@@ -122,8 +122,9 @@ Jobs in 2010 in Santa Clara County:   856,200
 Jobs in 2016 in Santa Clara County: 1,056,700
 ```
 
-How much housing near Google? http://www.greencaltrain.com/2017/04/how-much-housing-near-google-mountain-council-to-weigh-in-tuesday/
-The flaws in localized environmental impact reports: http://www.greencaltrain.com/2017/03/moving-away-from-environmental-reviews-that-favor-driving-san-francisco-mountain-view-menlo-park/
+* How much housing near Google? http://www.greencaltrain.com/2017/04/how-much-housing-near-google-mountain-council-to-weigh-in-tuesday/
+
+* The flaws in localized environmental impact reports: http://www.greencaltrain.com/2017/03/moving-away-from-environmental-reviews-that-favor-driving-san-francisco-mountain-view-menlo-park/
 
 [sprawl]: http://www.eastbaytimes.com/2017/05/01/as-california-grows-menlo-park-and-other-bay-area-cities-see-population-boom/
 [city-council]: https://sf-yimby-emailer.appspot.com/mountain-view
