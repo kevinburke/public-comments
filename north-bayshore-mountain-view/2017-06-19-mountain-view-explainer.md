@@ -1,16 +1,19 @@
-# Please support a high-density proposal Mountain View
+# All about the North Bayshore housing proposal
 
 The City of Mountain View is deciding how much housing to allow on the North
 Bayshore property, roughly the area between Highway 101, the Shoreline
-Amphitheater, NASA Ames Research Center, and Palo Alto. They are holding two
-meetings to discuss this:
+Amphitheater, NASA Ames Research Center, and Palo Alto.
+
+<img src="https://github.com/kevinburke/public-comments/blob/master/north-bayshore-mountain-view/bayshore-map.png?raw=true">
+
+They are holding two meetings to discuss it:
 
 - The Environmental Planning Commission is meeting Wednesday June 21, 7pm, at
   500 Castro Street. The Commission will vote on a recommendation to make to the
   City Council.
 
 - The City Council is holding deliberations and (probably) a vote on the North
-Bayshore plan on Tuesday, June 27 at 6:30pm at 500 Castro Street.
+Bayshore plan on Tuesday June 27 at 6:30pm at 500 Castro Street.
 
 Specifically they're going to vote on an Environmental Impact Report (EIR) that
 could allow up to 9850 housing units to be built in the area. Once they certify
