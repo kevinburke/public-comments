@@ -4,6 +4,16 @@ officials.
 I'm making this list public because I shared a letter once and it ended up on
 Slate.com, so it seems useful.
 
+## Contacting Your Representatives
+
+The most useful thing to do is to call on the phone or show up in person if
+there is an opportunity for public comment and tell your elected officials what
+you think.
+
+Short of this, you can use this [emailer](https://sf-yimby-emailer.appspot.com)
+to send messages to your elected officials - it sends one email at a time to
+each person on the list, so it looks like they're personalized.
+
 ## Housing Approval Talking Points
 
 - We've failed to build housing to keep up with the numbers of jobs we're
@@ -28,6 +38,11 @@ of pushing people to the outskirts of the Bay Area.
 
 - **Building housing lowers move-in evictions** - SF built 5000 units last year,
   a record, and owner move-in evictions dropped.
+
+- **Building more housing reduces displacement.** - "Lower Costs Reduce Chances
+of Displacement," http://www.lao.ca.gov/Publications/Report/3345
+
+http://www.lao.ca.gov/reports/2016/3345/6518.png
 
 ## Market Rate vs BMR
 
