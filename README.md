@@ -20,6 +20,31 @@ all out in the suburbs][sprawl], all single family homes with lawns, mostly
 people with long commutes. We should be building more infill development instead
 of pushing people to the outskirts of the Bay Area.
 
+- **Building housing lowers rents** - SF built 5000 units last year and saw
+  rents drop.
+
+    - Areas that build the most housing relative to population change see the
+    lowest price increases: https://twitter.com/lenkiefer/status/871785655164182529
+
+- **Building housing lowers move-in evictions** - SF built 5000 units last year,
+  a record, and owner move-in evictions dropped.
+
+## Market Rate vs BMR
+
+Only 4% of San Francisco renters are in subsidized below-market-rate housing.
+The rest of the city, including the majority of people making below the area's
+annual median income, rent in units that reset to the market rate when a new
+tenant moves in.
+
+"Market rate" also counts units that rent for less than the average - a Richmond
+house built in 1940 that rents for $1000 a month is "market rate".
+
+A 1% increase in the market rate rent translates to an extra $20 million per
+year paid by tenants to landlords. 13% of tenants move each year; these 13%
+paying an extra 1% translates to $20 million. Over 15 years, as more people move
+and start paying the extra 1%, the total transfer from tenants to landlords is
+$1.5 billion. (All numbers according to San Francisco's chief economist)
+
 ## Planning Commission Project Approval Talking Points
 
 - If neighbors are concerned with a project that complies with existing zoning,
