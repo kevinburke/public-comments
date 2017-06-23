@@ -80,6 +80,15 @@ about the types of buildings that might be built nearby.
 
 [sprawl]: http://www.eastbaytimes.com/2017/05/01/as-california-grows-menlo-park-and-other-bay-area-cities-see-population-boom/
 
+## Response to Specific Objections
+
+#### San Francisco doesn't have any more room
+
+SF is half as dense as Brooklyn and a lot of SF is zoned for
+single family housing. Look at this chart for example - we
+have a lot of very low density close to BART and SFMUNI lines.
+https://twitter.com/graue/status/868001323685302272
+
 ## Job Creation vs. Housing Creation By SFBA County
 
 Jobs data comes from
