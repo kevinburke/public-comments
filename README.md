@@ -36,13 +36,17 @@ of pushing people to the outskirts of the Bay Area.
     - Areas that build the most housing relative to population change see the
     lowest price increases: https://twitter.com/lenkiefer/status/871785655164182529
 
+    - From 2000-2015 [Seattle built 9 times as much housing as Oakland; also has rents at half Oakland's level][seattle].
+
 - **Building housing lowers move-in evictions** - SF built 5000 units last year,
   a record, and owner move-in evictions dropped.
 
 - **Building more housing reduces displacement.** - "Lower Costs Reduce Chances
 of Displacement," http://www.lao.ca.gov/Publications/Report/3345
 
-http://www.lao.ca.gov/reports/2016/3345/6518.png
+<img src="http://www.lao.ca.gov/reports/2016/3345/6518.png" />
+
+[seattle]: https://twitter.com/tim_mulshine/status/875744613486612480
 
 ## Market Rate vs BMR
 
@@ -80,6 +84,16 @@ about the types of buildings that might be built nearby.
 
 [sprawl]: http://www.eastbaytimes.com/2017/05/01/as-california-grows-menlo-park-and-other-bay-area-cities-see-population-boom/
 
+## Homelessness talking points
+
+Homelessness is largely a problem in cities with high housing prices. Cities
+without high housing prices see much lower rates of homelessness.
+
+Two thirds of SF's homeless population [lived in SF before becoming
+homeless][homeless-sf]. 55% of those were here longer than ten years.
+
+[homeless-sf]: https://twitter.com/alastairgee/status/875756743522897920
+
 ## Response to Specific Objections
 
 #### San Francisco doesn't have any more room
@@ -90,6 +104,12 @@ have a lot of very low density close to BART and SFMUNI lines.
 https://twitter.com/graue/status/868001323685302272
 
 ## Job Creation vs. Housing Creation By SFBA County
+
+In SF and Oakland we've added [17 new jobs for each new housing unit
+permitted][jobs-housing]. This points to a problem of insufficient housing
+supply.
+
+[jobs-housing]: https://twitter.com/rolandlisf/status/875758993531994112
 
 Jobs data comes from
 https://data.edd.ca.gov/Labor-Force-and-Unemployment-Rates/Local-Area-Unemployment-Statistics-LAUS-Annual-Ave/7jbb-3rb8
