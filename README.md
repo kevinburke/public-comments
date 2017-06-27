@@ -82,6 +82,12 @@ property owner.
 rewarding the neighbor for a lack of knowledge of zoning codes and foresight
 about the types of buildings that might be built nearby.
 
+## City Requirements under HAA
+
+The Housing Accountability Act (HAA) ties cities hands in important ways - often
+times they are legally required to issue permits to projects. See [HAA.md] for
+more info.
+
 [sprawl]: http://www.eastbaytimes.com/2017/05/01/as-california-grows-menlo-park-and-other-bay-area-cities-see-population-boom/
 
 ## Homelessness talking points
