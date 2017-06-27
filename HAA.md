@@ -46,6 +46,11 @@ reject the project or reduce the number of units, they are legally required to
 make a written finding explaining which "objective plan and zoning standards"
 are not being met.
 
+Before the meeting check the City Council agenda. Find the staff report attached
+to the agenda item you are interested in. The staff report should mention the
+City's obligations under the HAA. If it doesn't, or if you're not satisfied,
+consider leaving the following comment:
+
 > Hi, I'm [introduce yourself]. I would like to remind the council of their
 > obligations under the Housing Accountability Act. Specifically, if you vote
 > to reject the project, or want to reduce the number of units, the Housing
