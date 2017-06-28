@@ -75,7 +75,8 @@ consider leaving the following comment:
     *However*, there's an important caveat. The EIR may specify that any of
     several options may be acceptable, for example, 200 apartments OR 40
     single-family homes. A city can't force a developer to choose the plan with
-    the fewer number of units. See Oakland vs. Neighborhood association.
+    the fewer number of units. See [Sequoyah Hills Homeowners Association vs.
+    City of Oakland][haa-oakland].
 
 - It doesn't apply to a General or Specific Plan, which has details about how
 various areas should be zoned. For example, the Brisbane Baylands project is
@@ -91,3 +92,5 @@ or ask for a reduction in units.
     The exception is if the developer is using the State Density Bonus to build
     more units and exceed local height limits. This height limit increase is
     protected by the HAA.
+
+[haa-oakland]: https://en.wikipedia.org/wiki/California_Housing_Accountability_Act#Sequoyah_Hills_Homeowners_Assn._v._City_of_Oakland
