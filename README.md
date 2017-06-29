@@ -88,10 +88,16 @@ about the types of buildings that might be built nearby.
 ## City Requirements under HAA
 
 The Housing Accountability Act (HAA) ties cities hands in important ways - often
-times they are legally required to issue permits to projects. See [HAA.md] for
+times they are legally required to issue permits to projects. See [HAA.md][haa] for
 more info.
 
 [sprawl]: http://www.eastbaytimes.com/2017/05/01/as-california-grows-menlo-park-and-other-bay-area-cities-see-population-boom/
+
+## City Requirements about Schools
+
+It is illegal under CA Government Code 65596 for a local government to take
+any decision on the grounds that schools would be insufficient. E.g. you can't
+argue that "schools would be overcrowded" to deny a project.
 
 ## Homelessness talking points
 
@@ -160,3 +166,5 @@ Jobs in 2010 in Santa Clara County:   830,100
 Jobs in 2016 in Santa Clara County:   987,900
 Net Jobs Added:                       157,800
 ```
+
+[haa]: https://github.com/kevinburke/public-comments/blob/master/HAA.md
