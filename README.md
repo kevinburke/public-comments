@@ -36,10 +36,13 @@ of pushing people to the outskirts of the Bay Area.
     - Areas that build the most housing relative to population change see the
     lowest price increases: https://twitter.com/lenkiefer/status/871785655164182529
 
-    - From 2000-2015 [Seattle built 9 times as much housing as Oakland; also has rents at half Oakland's level][seattle].
+    - From 2000-2015 [Seattle built 9 times as much housing as Oakland; also has
+    rents at half Oakland's level][seattle].
 
 - **Building housing lowers move-in evictions** - SF built 5000 units last year,
-  a record, and owner move-in evictions dropped.
+  a record, and owner move-in evictions dropped. If new market rate units caused
+  evictions, it would be hard to explain why they dropped when SF built a record
+  amount.
 
 - **Building more housing reduces displacement.** - "Lower Costs Reduce Chances
 of Displacement," http://www.lao.ca.gov/Publications/Report/3345
