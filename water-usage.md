@@ -19,3 +19,6 @@ Lassen County has 440 gallons per day
 Mariposa County 330 gallons per day
 
 (All numbers are from 2010 USGS)
+
+click 'Download the Data' here
+https://ca.water.usgs.gov/water_use/2010-california-water-use.html
