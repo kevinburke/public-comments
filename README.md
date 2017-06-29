@@ -1,8 +1,10 @@
 This is a list of comments I've either made at meetings or written to public
 officials.
 
-I'm making this list public because I shared a letter once and it ended up on
-Slate.com, so it seems useful.
+I'm making this list public because I shared a letter once and [it ended up on
+Slate/Mother Jones][slate], so it seems useful.
+
+[slate]: http://www.motherjones.com/environment/2017/06/climate-change-housing-berkeley/
 
 ## Contacting Your Representatives
 
