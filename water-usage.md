@@ -20,5 +20,8 @@ Mariposa County 330 gallons per day
 
 (All numbers are from 2010 USGS)
 
-click 'Download the Data' here
+click 'Download the Data' here:
 https://ca.water.usgs.gov/water_use/2010-california-water-use.html
+
+The spreadsheet is also checked in to this repo. Divide "PS-Wtotl" by
+"TP-TotPop" to get per-county water usage
