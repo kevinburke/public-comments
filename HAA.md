@@ -41,10 +41,11 @@ into the zoning code. (This is a horrible idea, but you get the picture)
 
 #### Your job as a public participant
 
-Use the public comment section to remind the City Council that if they want to
-reject the project or reduce the number of units, they are legally required to
-make a written finding explaining which "objective plan and zoning standards"
-are not being met.
+Many City Councils, City Managers and City Attorneys are unfamiliar with their
+requirements under the HAA. Use the public comment section to remind the City
+Council that if they want to reject the project or reduce the number of units,
+they are legally required to make a written finding explaining which "objective
+plan and zoning standards" are not being met.
 
 Before the meeting check the City Council agenda. Find the staff report attached
 to the agenda item you are interested in. The staff report should mention the
