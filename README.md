@@ -25,7 +25,9 @@ commutes.
 - I would rather deal with an X crisis (parking, traffic, zucchini) than a
 housing crisis.
 
-- Building infill housing close to transit is good for the environment.
+- Building infill housing close to transit is good for the environment. Dense
+housing uses less water; SF County has lowest per-person water use in the state.
+See [water-usage.md][water-usage].
 
 - The fastest growing cities in the Bay Area are [Brentwood, Gilroy, Rio Vista,
 all out in the suburbs][sprawl], all single family homes with lawns, mostly
@@ -52,6 +54,7 @@ of Displacement," http://www.lao.ca.gov/Publications/Report/3345
 <img src="http://www.lao.ca.gov/reports/2016/3345/6518.png" />
 
 [seattle]: https://twitter.com/tim_mulshine/status/875744613486612480
+[water-usage]: https://github.com/kevinburke/public-comments/blob/master/water-usage.md
 
 ## Market Rate vs BMR
 
