@@ -139,7 +139,7 @@ https://data.edd.ca.gov/Labor-Force-and-Unemployment-Rates/Local-Area-Unemployme
 ##### San Francisco County
 
 ```
-Housing in 2017 in San Francisco: 376,162
+Housing in 2010 in San Francisco: 376,162
 Housing in 2017 in San Francisco: 392,619
 Net Housing Added:                 16,457
 
