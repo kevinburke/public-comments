@@ -172,4 +172,16 @@ Jobs in 2016 in Santa Clara County:   987,900
 Net Jobs Added:                       157,800
 ```
 
+#### Contra Costa
+
+```
+Jobs in 2010 in Contra Costa County: 467,900
+Jobs in 2016 in Contra Costa County: 531,800
+Net Jobs Added:                       63,900
+
+Housing in 2010 in Contra Costa County: 400,263
+Housing in 2016 in Contra Costa County: 409,783
+Net Housing Added:                        9,520
+```
+
 [haa]: https://github.com/kevinburke/public-comments/blob/master/HAA.md
