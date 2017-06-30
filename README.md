@@ -136,6 +136,10 @@ https://data.edd.ca.gov/Labor-Force-and-Unemployment-Rates/Local-Area-Unemployme
 
 "Jobs" is counting the number of employed people.
 
+Housing numbers come from
+http://www.dof.ca.gov/Forecasting/Demographics/Estimates/E-5/, which are saved
+as the Excel spreadsheet in here.
+
 ##### San Francisco County
 
 ```
