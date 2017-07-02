@@ -40,8 +40,7 @@ of pushing people to the outskirts of the Bay Area.
     - Areas that build the most housing relative to population change see the
     lowest price increases: https://twitter.com/lenkiefer/status/871785655164182529
 
-    - From 2000-2015 [Seattle built 9 times as much housing as Oakland; also has
-    rents at half Oakland's level][seattle].
+    - From 2000-2015 [Seattle built 9 times as much housing as Oakland; also has rents at half Oakland's level][seattle].
 
 - **Building housing lowers move-in evictions** - SF built 5000 units last year,
   a record, and owner move-in evictions dropped. If new market rate units caused
@@ -51,8 +50,21 @@ of pushing people to the outskirts of the Bay Area.
 - **Building more housing reduces displacement.** - "Lower Costs Reduce Chances
 of Displacement," http://www.lao.ca.gov/Publications/Report/3345
 
+- **Lack of housing construction is a public health emergency**
+
+    - Santa Clara County [homeless population under 25 tripled from 2015 to 2017][homeless-under-25].
+    "A lot of it has to do with the lack of affordable housing.. A generation
+    ago someone could literally find a room with a roommate for $75 a month. Now
+    you can't find that for $750 a month. They're just out of luck — that’s the new
+    reality."
+
+    - 50 [RV's along El Camino Real in Palo Alto][rvs]. Including a family that owns
+      a home in Stockton but couldn't find work there, tired of the commute.
+
 <img src="http://www.lao.ca.gov/reports/2016/3345/6518.png" />
 
+[rvs]: http://www.mercurynews.com/2017/06/30/im-not-causing-anyone-harm-rv-owners-cite-housing-crunch-for-living-in-vehicles/
+[homeless]: http://www.mercurynews.com/2017/06/30/san-jose-huge-surge-in-homeless-silicon-valley-youth
 [seattle]: https://twitter.com/tim_mulshine/status/875744613486612480
 [water-usage]: https://github.com/kevinburke/public-comments/blob/master/water-usage.md
 
@@ -174,7 +186,13 @@ Net Housing Added:                      29,803
 Jobs in 2010 in Santa Clara County:   830,100
 Jobs in 2016 in Santa Clara County:   987,900
 Net Jobs Added:                       157,800
+
+Rent in 2014 in Santa Clara County:     $2161
+Rent in 2017 in Santa Clara County:     $2562
+Pct Rent Increase:                        18%
 ```
+
+(via https://www.rentcafe.com/average-rent-market-trends/us/ca/santa-clara-county/santa-clara/)
 
 #### Contra Costa
 
