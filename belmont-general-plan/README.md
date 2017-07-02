@@ -21,9 +21,11 @@ First, some background:
 - Unemployment in San Mateo County is currently at 3%, which is extremely low.
 
 These data points suggest that the area desperately needs more housing. However,
-the draft EIR suggests Belmont should add 3,300 jobs and only 1,500 housing
-units. This will increase the competition for housing in the area and drive up
-your rent even further.
+the draft EIR [suggests Belmont should add 3,300 jobs and only 1,500 housing
+units][belmont-jobs-housing] (see page 2). This will increase the competition
+for housing in the area and drive up your rent even more.
+
+[belmont-jobs-housing]: https://github.com/kevinburke/public-comments/blob/master/belmont-general-plan/belmont-units-alternatives.pdf
 
 ### Problems with Belmont's EIR
 
