@@ -46,14 +46,15 @@ Send a comment to the Belmont City Council asking for more space for housing and
 less space for offices. Be sure to mention you are a Belmont resident and
 a renter. You can cite the numbers above.
 
-Carlos DeMelo<br>
+Carlos de Melo<br>
 Community Development Director<br>
 [cdemelo@belmont.gov](mailto:cdemelo@belmont.gov)
 
-Belmont City Council
+Belmont City Council<br>
 [CityCouncil@belmont.gov](mailto:CityCouncil@belmont.gov)
 
-If you want to put specific details in your email, here are some specific things to ask for:
+Put "Draft EIR feedback" as the subject line. If you want to put specific
+details in your email, here are some specific things to ask for:
 
 - **More housing in Belmont Village** and fewer offices.
 
