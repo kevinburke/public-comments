@@ -50,6 +50,8 @@ of pushing people to the outskirts of the Bay Area.
 - **Building more housing reduces displacement.** - "Lower Costs Reduce Chances
 of Displacement," http://www.lao.ca.gov/Publications/Report/3345
 
+    <img src="http://www.lao.ca.gov/reports/2016/3345/6518.png" />
+
 - **Lack of housing construction is a public health emergency**
 
     - Santa Clara County [homeless population under 25 tripled from 2015 to 2017][homeless-under-25].
@@ -61,12 +63,13 @@ of Displacement," http://www.lao.ca.gov/Publications/Report/3345
     - 50 [RV's along El Camino Real in Palo Alto][rvs]. Including a family that owns
       a home in Stockton but couldn't find work there, tired of the commute.
 
-<img src="http://www.lao.ca.gov/reports/2016/3345/6518.png" />
+    - People [taking all night buses][bus] because they don't have a place to live.
 
 [rvs]: http://www.mercurynews.com/2017/06/30/im-not-causing-anyone-harm-rv-owners-cite-housing-crunch-for-living-in-vehicles/
 [homeless-under-25]: http://www.mercurynews.com/2017/06/30/san-jose-huge-surge-in-homeless-silicon-valley-youth
 [seattle]: https://twitter.com/tim_mulshine/status/875744613486612480
 [water-usage]: https://github.com/kevinburke/public-comments/blob/master/water-usage.md
+[bus]: http://www.mercurynews.com/2013/10/31/homeless-turn-overnight-bus-route-into-hotel-22/
 
 ## Market Rate vs BMR
 
