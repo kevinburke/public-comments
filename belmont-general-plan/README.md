@@ -43,8 +43,8 @@ impacts of pushing people to the outskirts of the Bay Area.**
 ### How to Help
 
 Send a comment to the Belmont City Council asking for more space for housing and
-less space for offices. Be sure to mention you are a Belmont resident and
-a renter. You can cite the numbers above.
+less space for offices. *Be sure to mention you are a Belmont resident and a
+renter.* You can cite the numbers above.
 
 Carlos de Melo<br>
 Community Development Director<br>
