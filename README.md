@@ -64,7 +64,7 @@ of Displacement," http://www.lao.ca.gov/Publications/Report/3345
 <img src="http://www.lao.ca.gov/reports/2016/3345/6518.png" />
 
 [rvs]: http://www.mercurynews.com/2017/06/30/im-not-causing-anyone-harm-rv-owners-cite-housing-crunch-for-living-in-vehicles/
-[homeless]: http://www.mercurynews.com/2017/06/30/san-jose-huge-surge-in-homeless-silicon-valley-youth
+[homeless-under-25]: http://www.mercurynews.com/2017/06/30/san-jose-huge-surge-in-homeless-silicon-valley-youth
 [seattle]: https://twitter.com/tim_mulshine/status/875744613486612480
 [water-usage]: https://github.com/kevinburke/public-comments/blob/master/water-usage.md
 
