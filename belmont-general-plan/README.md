@@ -12,13 +12,13 @@ just released a [draft EIR][draft-eir] and is currently seeking comments on it.
 
 First, some background:
 
-- Since 2010, San Mateo County has added 158,000 jobs and only 30,000 new
+- Since 2010, San Mateo County has added 75,000 jobs and only 4,000 new
   housing units. As a result, there are more workers competing for fewer
   apartments.
 
-- Since 2014, the [average rent in San Mateo County has increased by 20%][rent].
+- Since 2010, the [average rent in San Mateo County has doubled][rent].
 
-- Unemployment in San Mateo County is currently at 3%, which is extremely low.
+- Unemployment in San Mateo County is currently at 2.7%, which is extremely low.
 
 These data points suggest that the area desperately needs more housing. However,
 the draft EIR [suggests Belmont should add 3,300 jobs and only 1,500 housing
@@ -62,5 +62,5 @@ If you want to put specific details in your email, here are some specific things
 - **Rezone some R-1 areas as R-2** (Duplexes)
 
 [draft-eir]: http://www.belmont-2035generalplan.com/library.html
-[rent]: https://www.rentcafe.com/average-rent-market-trends/us/ca/santa-clara-county/santa-clara/
+[rent]: https://www.rentjungle.com/average-rent-in-san-mateo-rent-trends/
 [sprawl]: http://www.eastbaytimes.com/2017/05/01/as-california-grows-menlo-park-and-other-bay-area-cities-see-population-boom/
