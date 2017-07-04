@@ -170,6 +170,8 @@ Net Jobs Added:                 98,900
 ##### San Mateo County
 
 ```
+Population in 2010:                  718,451
+Population in 2017:                  770,203
 Housing in 2010 in San Mateo County: 271,031
 Housing in 2017 in San Mateo County: 277,189
 Net Housing Added:                     4,158
