@@ -115,7 +115,7 @@ more info.
 
 ## City Requirements about Schools
 
-It is illegal under CA Government Code 65596 for a local government to take
+It is illegal under CA Government Code 65996 for a local government to take
 any decision on the grounds that schools would be insufficient. E.g. you can't
 argue that "schools would be overcrowded" to deny a project.
 
