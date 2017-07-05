@@ -8,6 +8,11 @@ California law requires Belmont to evaluate the environmental impacts of its
 plan, through what is called an "environmental impact report" or EIR. Belmont
 just released a [draft EIR][draft-eir] and is currently seeking comments on it.
 
+**Your feedback 100% matters!!** This is a participative process. The draft will
+likely change in response to feedback from the public. Even a 1 minute email
+that says "I live in Belmont, please build as much affordable housing as you
+possibly can, the rent is too high" will help.
+
 ### Belmont Wants to Add More Jobs Than Housing
 
 First, some background:
@@ -55,6 +60,8 @@ Belmont City Council<br>
 
 Put "Draft EIR feedback" as the subject line. If you want to put specific
 details in your email, here are some specific things to ask for:
+
+- **Switch to using Alternative 1**, which adds more housing and fewer offices.
 
 - **More housing in Belmont Village** and fewer offices.
 
