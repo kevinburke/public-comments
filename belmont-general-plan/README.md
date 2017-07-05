@@ -12,9 +12,9 @@ just released a [draft EIR][draft-eir] and is currently seeking comments on it.
 
 First, some background:
 
-- Since 2010, San Mateo County has added 75,000 jobs and only 4,000 new
-  housing units. As a result, there are more workers competing for fewer
-  apartments.
+- Since 2010, San Mateo County has added 30,000 people, 75,000 jobs and only
+4,000 new housing units. As a result, there are more people and more workers
+competing for fewer apartments.
 
 - Since 2010, the [average rent in San Mateo County has doubled][rent].
 
