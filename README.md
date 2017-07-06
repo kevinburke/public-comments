@@ -211,4 +211,9 @@ Housing in 2016 in Contra Costa County: 409,783
 Net Housing Added:                        9,520
 ```
 
+##### CA Housing Construction Per Year
+
+See the image in this repository which comes from this report:
+http://www.hcd.ca.gov/policy-research/plans-reports/docs/California%27s-Housing-Future-Full-Public-Draft.pdf
+
 [haa]: https://github.com/kevinburke/public-comments/blob/master/HAA.md
