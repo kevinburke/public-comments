@@ -47,6 +47,12 @@ impacts of pushing people to the outskirts of the Bay Area.**
 
 ### How to Help
 
+Come to the Planning Commission hearing on the EIR. It is on August 15th at 7pm
+at Belmont City Hall. You will have 2 minutes to give a comment. Public speaking
+is difficult but every voice counts; even if you just say "I think we should add
+more housing to avoid having rents go up even further" that will be a helpful
+comment.
+
 Send a comment to the Belmont City Council asking for more space for housing and
 less space for offices. *Be sure to mention you are a Belmont resident and a
 renter.* You can cite the numbers above.
