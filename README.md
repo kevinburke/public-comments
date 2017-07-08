@@ -22,6 +22,12 @@ each person on the list, so it looks like they're personalized.
 creating (see per-county stats below). This leads to high prices and longer
 commutes.
 
+- Prices are really, really, high, and hard to deal with:
+
+    - One in three CA renters [pays more than half their income to their landlord][latimes-rhna].
+
+[latimes-rhna]: http://www.latimes.com/opinion/editorials/la-ed-housing-elements-20170708-story.html
+
 - I would rather deal with an X crisis (parking, traffic, zucchini) than a
 housing crisis.
 
@@ -60,14 +66,19 @@ of Displacement," http://www.lao.ca.gov/Publications/Report/3345
     you can't find that for $750 a month. They're just out of luck — that’s the new
     reality."
 
+    - 83 percent of homeless residents [lived in Santa Clara County][lived-in]
+    at the time they became homeless.
+
     - 50 [RV's along El Camino Real in Palo Alto][rvs]. Including a family that owns
       a home in Stockton but couldn't find work there, tired of the commute.
 
     - People [taking all night buses][bus] because they don't have a place to live.
 
+[lived-in]: https://paloaltoonline.com/news/2017/06/30/palo-alto-homelessness-rises-26-percent
 [rvs]: http://www.mercurynews.com/2017/06/30/im-not-causing-anyone-harm-rv-owners-cite-housing-crunch-for-living-in-vehicles/
 [homeless-under-25]: http://www.mercurynews.com/2017/06/30/san-jose-huge-surge-in-homeless-silicon-valley-youth
 [seattle]: https://twitter.com/tim_mulshine/status/875744613486612480
+[seattle-2]: https://twitter.com/ByRosenberg/status/851192419831894016
 [water-usage]: https://github.com/kevinburke/public-comments/blob/master/water-usage.md
 [bus]: http://www.mercurynews.com/2013/10/31/homeless-turn-overnight-bus-route-into-hotel-22/
 
