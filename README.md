@@ -48,6 +48,10 @@ of pushing people to the outskirts of the Bay Area.
 
     - From 2000-2015 [Seattle built 9 times as much housing as Oakland; also has rents at half Oakland's level][seattle].
 
+- **Lower rents are more equitable** - "rising housing prices in
+high-income areas deter low-skill migration and slow income convergence"
+http://www.nber.org/papers/w23609
+
 - **Building housing lowers move-in evictions** - SF built 5000 units last year,
   a record, and owner move-in evictions dropped. If new market rate units caused
   evictions, it would be hard to explain why they dropped when SF built a record
