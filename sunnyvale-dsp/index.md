@@ -2,8 +2,8 @@ Please approve DSP amendments to build more housing
 
 I'm a renter in Belmont and I'm trying to save up to buy a home. I'm interested
 in this project because your decision will have an effect on rent prices
-throughout the area. Please vote to approve the DSP amendment to allow 790
-housing units on the property.
+throughout the area. Please vote to approve the Downtown Specific Plan amendment
+to allow 790 housing units on blocks 18 and 22.
 
 Since 2010, Santa Clara County has made room for 157,800 new jobs, but only
 29,800 new housing units. This has increased the competition for apartments in
