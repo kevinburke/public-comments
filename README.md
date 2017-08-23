@@ -226,6 +226,18 @@ Housing in 2016 in Contra Costa County: 409,783
 Net Housing Added:                        9,520
 ```
 
+#### Marin County
+
+```
+Jobs in 2010 in Marin County: 122,600
+Jobs in 2016 in Marin County: 136,500
+Net Jobs Added:                13,900
+
+Housing in 2010 in Marin County: 111,214
+Housing in 2017 in Marin County: 111,999
+Net Housing Added:                   785
+```
+
 ##### CA Housing Construction Per Year
 
 See the image in this repository which comes from this report:
