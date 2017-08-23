@@ -232,3 +232,11 @@ See the image in this repository which comes from this report:
 http://www.hcd.ca.gov/policy-research/plans-reports/docs/California%27s-Housing-Future-Full-Public-Draft.pdf
 
 [haa]: https://github.com/kevinburke/public-comments/blob/master/HAA.md
+
+### LOS vs VMT
+
+This is a good presentation about the problems with LOS analysis:
+
+http://mtc.ca.gov/sites/default/files/CGanson_MTC_Planning_Innovations_743_6-8-17.pdf
+
+fortunately California is phasing out LOS
