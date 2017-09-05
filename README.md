@@ -48,6 +48,12 @@ of pushing people to the outskirts of the Bay Area.
 
     - From 2000-2015 [Seattle built 9 times as much housing as Oakland; also has rents at half Oakland's level][seattle].
 
+    - [Reducing the amount of housing _raises_ rents][conorsen]: “After
+    Hurricane Katrina hit New Orleans the apartment vacancy rate plummeted to
+    2.7% from 6.7% and rents rose by more than 30%”
+
+[conorsen]: https://twitter.com/conorsen/status/904380815680954368
+
 - **Lower rents are more equitable** - "rising housing prices in
 high-income areas deter low-skill migration and slow income convergence"
 http://www.nber.org/papers/w23609
