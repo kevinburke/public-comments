@@ -244,6 +244,18 @@ Housing in 2017 in Marin County: 111,999
 Net Housing Added:                   785
 ```
 
+#### Alameda County
+
+```
+Jobs in 2010 in Alameda County: 782,500
+Jobs in 2016 in Alameda County: 837,900
+Net Jobs Added: 55,400
+
+Housing units in 2010 in Alameda County: 581,372
+Housing units in 2017 in Alameda County: 596,936
+Net Housing Added: 15,564
+```
+
 ##### CA Housing Construction Per Year
 
 See the image in this repository which comes from this report:
